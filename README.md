@@ -4,9 +4,9 @@
 
 matfinder is a web database of materials properties with the basic, but fundamental, role of making materials data more accessible to everyone. For that reason our strategy is to create and mainatain a web API where people can insert and fetch materials information in a safe and reliable way. Hence, any project wishing to use our API is more than welcome.
 
-Our API is hosted at <a href='https://matfinder.io/api/'>https://matfinder.io/api/</a>.
+Our API is hosted at <a href='https://www.matfinder.io/api/'>https://www.matfinder.io/api/</a>.
 
-Look our <a href='https://www.youtube.com/watch?v=cN3O46Owjk8'>video</a>
+Look our <a href='https://www.youtube.com/watch?v=cN3O46Owjk8'>video</a>!
 
 ## Table of contents
 
