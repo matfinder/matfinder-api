@@ -71,19 +71,9 @@ Look our <a href='https://www.youtube.com/watch?v=cN3O46Owjk8'>video</a>!
     1. [GET /api/single/<single_id>](#singleone)
     2. [POST /api/single/create](#singlecreate)
 
-11. [Companies routes](#company)
-    1. [GET /api/companies](#companiesall)
-    2. [GET /api/company/<company_id>'](#companyone)
-
-12. [Products routes](#product)
-    1. [GET /api/products](#productsall)
-    2. [GET /api/product/<product_id>](#productone)
-    3. [POST /api/single/create](#productcreate)
-
-13. [Search, messages and analytics routes](#messages)
+11. [Search and messages routes](#messages)
     1. [POST /api/search/advanced](#search)
     2. [POST /api/message](#messagesend)
-    3. [POST /api/redirect/<product_id>](#redirect)
 
 
 
